@@ -1,6 +1,7 @@
 package ejercicios_propuestos_estructuras_iterativas;
 
 import java.math.BigInteger;
+import java.util.Scanner;
 
 public class Factorial {
 	
@@ -49,6 +50,7 @@ public class Factorial {
 		
 		//método recursivo
 		System.out.print("Factorial de 25 es: " + getRecursiveFactorial(25));
+		
 
 	}
 
