@@ -10,7 +10,7 @@ public class BuscadorNumerosPrimos {
 	
 		int count = 0;
 		
-		int number = 2;
+		int number = 2; 
 		
 		while(count<n) {
 			 boolean isNumberPrime = true;
